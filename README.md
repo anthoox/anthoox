@@ -3,7 +3,7 @@
 También me puedes encontrar por ahí como **@anthoox**.  
 Soy desarrollador de aplicaciones web y, como buen curioso digital, **nunca dejo de aprender**.
 
-Ahora mismo me estoy adentrando en el mundo de **Laravel** y empezando a trastear con **Angular**. Son tecnologías que no vi en mi formación, pero que estoy incorporando por mi cuenta porque sé que me van a abrir muchas puertas (¡y porque me encanta cacharrear con esto!).
+Ahora mismo me estoy adentrando en el mundo de **Laravel** y **Angular**. Son tecnologías que no vi en mi formación, pero que estoy incorporando por mi cuenta porque sé que me van a abrir muchas puertas por lo importantes que son.
 
 ---
 
